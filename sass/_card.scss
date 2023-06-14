@@ -1,0 +1,76 @@
+.card{
+ display: flex;
+  &__content{
+ display: flex;justify-content: center; 
+margin-top: -100px;
+}
+  .card1{
+    margin-left: 30px;
+    border: white solid 2px;
+    background: #fff;
+    box-shadow: 2px 2px 10px black;
+    max-width: 218px;
+    &__img{
+        padding-top: 20px;
+        padding-left: 15px;
+        padding-bottom: 13px;
+    }
+    &__title{
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-bottom: 3px;
+    }
+    &__text{
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-bottom: 3px;
+    }
+  }
+  .card2{
+    background: #fff;
+    max-width: 218px;
+    border: white solid 2px;
+    box-shadow: 2px 2px 10px black;
+    margin-left: 30px;
+    &__img{
+        padding-top: 20px;
+        padding-left: 15px;
+        padding-bottom: 13px;
+
+    }
+    &__title{
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-bottom: 10px;
+    }
+    &__text{
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-bottom: 3px;
+    }
+  }
+  .card3{
+    
+    margin-left: 30px;
+    background: #00A0C1;
+    border: #00A0C1 solid 2px;
+    box-shadow: 2px 2px 10px black;
+    max-width: 218px;
+    &__img{
+        padding-top: 20px;
+        padding-left: 15px;
+        padding-bottom: 13px;
+
+    }
+    &__title{
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-bottom: 10px;
+    }
+    &__text{
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-bottom: 3px;
+    }
+  }
+}

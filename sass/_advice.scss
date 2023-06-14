@@ -1,0 +1,35 @@
+.advice {
+ display: flex;
+    .advice__title {
+        display:flex ;
+        justify-content: center;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 57px;
+        letter-spacing: 0.2px;
+        color: #252B42;
+     margin-top: 120px;
+     padding-bottom: 10px;
+     margin-left:40px;
+    }
+
+    &__subtitle {
+        display:flex ;
+        justify-content: center;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+        letter-spacing: 0.2px;
+        color: #737373;
+        max-width: 470px;
+        margin-left: 370px;
+
+    }
+
+
+}

@@ -1,0 +1,51 @@
+.header{
+    background-image: url(../img/cover.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    &-content{
+        height: calc(100vh - 80px);    
+    display: flex;
+    align-items: center;
+    
+    }
+    &__title{
+        font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 58px;
+line-height: 80px;
+letter-spacing: 0.2px;
+color: #252B42;
+// margin-top: 116px;
+max-width: 509px;
+
+    }
+    &__text{
+        font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0.2px;
+color: #737373;
+margin-top: 35px;
+    }
+    &__btn{
+        background: #FFA62B;
+border-radius: 37px;
+border: 0;
+margin-top: 35px;
+padding: 10px 36px;
+cursor: pointer;
+    }
+    &__btn2{
+    margin-top: 35px;
+    background-color: none;
+    padding: 10px 36px;
+    border-radius: 37px;
+    cursor: pointer;
+    border: blue solid 1px ;
+
+    }
+}

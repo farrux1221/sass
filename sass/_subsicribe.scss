@@ -1,0 +1,49 @@
+.subsicribe {
+  color: #fff;
+  &__content {
+    width: 700px;
+    margin-left: 150px;
+  }
+  &__center {
+    display: flex;
+    width: 968px;
+    height: 124px;
+    border: 1px solid #16697a;
+    background-color: #16697a;
+  }
+  .title5 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    color: #ffffff;
+    max-width: 258px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    display: flex;
+  }
+  .input2 {
+    width: 450px;
+    height: 58px;
+    outline: none;
+    margin-left: 250px;
+    margin-top: 33px;
+    margin-bottom: 33px;
+    border: 1px solid white;
+    border-radius: 5px 0px 0px 5px;
+  }
+  .sbs__btn {
+    width: 117px;
+    height: 58px;
+    background: #ffa62b;
+    border: 1px solid #e6e6e6;
+    border-radius: 0px 5px 5px 0px;
+    margin-top: 33px;
+    margin-bottom: 33px;
+    margin-right: 48px;
+    margin-left: -60px;
+  }
+}

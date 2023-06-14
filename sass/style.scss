@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+ 
+ }
+ ul,li{
+    list-style: none;
+ }
+ .container{
+    width: 100%;
+    max-width: 1240px;
+    padding: 0 20px;
+    margin: 0 auto;
+ }
+ 
+ @import "_navbar.scss";
+ @import "_header.scss";
+ @import "_card.scss";
+@import"_choose.scss";
+@import"_cases.scss";
+@import"_advice.scss";
+@import"_done.scss";
+@import"_service.scss";
+@import"_row.scss";
+@import"_col.scss";
+@import"_logo.scss";
+@import"_subsicribe.scss";
+@import"_get.scss";
+@import"_get10.scss";
+@import"_agency.scss";
+@import"_legal.scss";
+@import"_end.scss";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

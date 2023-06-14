@@ -1,0 +1,63 @@
+.legal{
+    background: #16697A;
+    color: #fff;
+ &__content{
+    display: flex;
+    // flex-direction: row
+ }
+&__left{
+    margin-top: 50px;
+&__center{
+    margin-top: 50px;
+margin-left: 63px;
+}
+&__center2{
+    margin-top: 50px;
+margin-left: 100px;
+}
+
+}
+&__item{
+    padding-top: 10px;
+}
+&__item1{
+    // padding-top: 20px;
+    padding-bottom: 20px;
+}
+&__img{
+    width: 23px;
+    margin-left: -25px;
+    margin-bottom: px;
+}
+&__img2{
+    width: 23px;
+    margin-left: -25px;
+    margin-bottom: -10px;
+}
+&__img3{
+    width: 23px;
+    margin-left: -25px;
+    margin-bottom: 0px;
+}
+&__item2{
+    margin-top: -20px;
+}
+&__item3{
+    margin-top: -10px;
+}
+&__item4{
+    margin-top: -22px;
+}
+.row20{
+    margin-top: -10px;
+    margin-bottom: 15px
+}
+.row30{
+    margin-top: px;
+    margin-bottom: 20px
+}
+.row40{
+    margin-top: 0px;
+    margin-bottom: 20px
+}
+}

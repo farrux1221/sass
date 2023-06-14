@@ -1,0 +1,19 @@
+.end{
+    display: flex;
+
+&__content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+&__img{
+    margin-right: 200px;
+    padding-left: 20px;
+
+}
+&__img2{
+    padding-left: 20px;
+
+}
+}

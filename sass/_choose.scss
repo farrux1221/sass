@@ -1,0 +1,108 @@
+.choose{
+ background-color: #fff;
+ &__content{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+
+ }
+&__img{
+    margin-top: 20px;
+  margin-left: 180px;
+}
+}
+
+.choose__content{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+
+    .choose1{
+        margin-left: 30px;
+        border: white solid 2px;
+        background: #fff;
+        box-shadow: 2px 2px 10px black;
+        max-width: 218px;
+        &__img{
+            padding-top: 20px;
+            padding-left: 15px;
+            padding-bottom: 13px;
+        }
+        &__title{
+            padding-top: 10px;
+            padding-left: 15px;
+            padding-bottom: 3px;
+        }
+        &__text{
+            padding-top: 10px;
+            padding-left: 15px;
+            padding-bottom: 3px;
+        }
+      }
+      .choose2{
+        margin-left: 30px;
+        border: white solid 2px;
+        background: #fff;
+        box-shadow: 2px 2px 10px black;
+        max-width: 218px;
+        &__img{
+            padding-top: 20px;
+            padding-left: 15px;
+            padding-bottom: 13px;
+        }
+        &__title{
+            padding-top: 10px;
+            padding-left: 15px;
+            padding-bottom: 3px;
+        }
+        &__text{
+            padding-top: 10px;
+            padding-left: 15px;
+            padding-bottom: 3px;
+        }
+      }
+      .choose3{
+        margin-left: 30px;
+        border: white solid 2px;
+        background: #fff;
+        box-shadow: 2px 2px 10px black;
+        max-width: 218px;
+        &__img{
+            padding-top: 20px;
+            padding-left: 15px;
+            padding-bottom: 13px;
+        }
+        &__title{
+            padding-top: 10px;
+            padding-left: 15px;
+            padding-bottom: 3px;
+        }
+        &__text{
+            padding-top: 10px;
+            padding-left: 15px;
+            padding-bottom: 3px;
+        }
+      }
+      .choose4{
+        margin-left: 30px;
+        border: white solid 2px;
+        background: #fff;
+        box-shadow: 2px 2px 10px black;
+        max-width: 218px;
+        &__img{
+            padding-top: 20px;
+            padding-left: 15px;
+            padding-bottom: 13px;
+        }
+        &__title{
+            padding-top: 10px;
+            padding-left: 15px;
+            padding-bottom: 3px;
+        }
+        &__text{
+            padding-top: 10px;
+            padding-left: 15px;
+            padding-bottom: 3px;
+        }
+      }
+}
